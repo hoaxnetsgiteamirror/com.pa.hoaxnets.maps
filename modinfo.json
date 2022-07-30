@@ -14,6 +14,7 @@
 	"date":"2022-07-30",
 	"description": "A collection of mostly 4v4 and 8p FFA maps, with some multiplanetary maps. These maps are probably rather unbalanced, but still lead to some interesting outcomes depending on how dynamic your playstyle is.",
 	"display_name":"Hoax's Map Pack",
+	"icon":"https://raw.githubusercontent.com/hoaxnetsgiteamirror/com.pa.hoaxnets.maps/master/images/icon.png"
 	"forum":"https://github.com/hoaxnetsgiteamirror/com.pa.hoaxnets.maps",
 	"github":"https://github.com/hoaxnetsgiteamirror/com.pa.hoaxnets.maps"
 	"identifier": "com.pa.hoaxnets.maps",
