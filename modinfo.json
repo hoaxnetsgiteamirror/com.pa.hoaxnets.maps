@@ -1,0 +1,32 @@
+{
+	"author":"Hoaxnets",
+	"build":"115872",
+	"category": [
+		"ffa",
+		"4v4",
+		"team",
+		"titans",
+		"maps",
+		"hoaxnets",
+		"hoax"
+	],
+	"context":"client",
+	"date":"2022-07-30",
+	"description": "A collection of mostly 4v4 and 8p FFA maps, with some multiplanetary maps. These maps are probably rather unbalanced, but still lead to some interesting outcomes depending on how dynamic your playstyle is.",
+	"display_name":"Hoax's Map Pack",
+	"forum":"https://github.com/hoaxnetsgiteamirror/com.pa.hoaxnets.maps",
+	"github":"https://github.com/hoaxnetsgiteamirror/com.pa.hoaxnets.maps"
+	"identifier": "com.pa.hoaxnets.maps",
+	"signature":"com.pa.hoaxnets.maps",
+	"version":"1.0.0",
+	"dependencies": [
+		"com.pa.conundrum.cShareSystems",
+		"com.pa.grandhomie.simplebiomes.server",
+		"com.pa.grandhomie.simplebiomes.client"
+	],
+	"scenes":{
+		"load_planet": [
+			"coui://ui/mods/hoaxnets/maps.js"
+		]
+	}
+}
