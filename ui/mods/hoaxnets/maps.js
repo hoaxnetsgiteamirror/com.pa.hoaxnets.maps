@@ -11,5 +11,6 @@ cShareSystems.load_pas("HOAX Maps", [
     "coui://ui/mods/hoaxnets/systems/stegosarus_2v2_4p_ffa.pas"
 ]);
 cShareSystems.load_pas("HOAX Interplanetary Maps", [
-    "coui://ui/mods/hoaxnets/systems/turtle_4p_ffa.pas"
+    "coui://ui/mods/hoaxnets/systems/turtle_4p_ffa.pas",
+    "coui://ui/mods/hoaxnets/systems/turtle_4v4.pas"
 ]);
